@@ -1,0 +1,11 @@
+{
+  "name": "PaginationSQL",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "yaodehuang <sef1548@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^6.3.5"
+  }
+}
